@@ -1,0 +1,1 @@
+A 3D navbar is a navigation bar that incorporates design techniques to create a three-dimensional effect, making it visually appealing and interactive. This effect can be achieved using HTML, CSS, and JavaScript.
